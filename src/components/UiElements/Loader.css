@@ -1,0 +1,15 @@
+.loader_container{
+    display: grid;
+    margin:auto;
+    justify-content: center;
+    justify-items: center; 
+    position: fixed; 
+    z-index: 20000; 
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+
+    animation: opAnimation 0.5s;
+    
+  }
